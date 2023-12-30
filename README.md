@@ -7,7 +7,7 @@ Welcome to the *Tricky Algorithms in C* repository! This collection is dedicated
 Each algorithm in this repository is crafted to address unique challenges, emphasizing the depth and intricacies of algorithmic design in C. These implementations are not just about problem-solving; they explore optimization, innovation, and the subtleties of algorithmic thinking.
 
 ### List of Algorithms
-- **Monty Hall roblem**: The Monty Hall problem is a probability puzzle where you choose one of three doors, behind one of which is a prize. The host, knowing what's behind each door, opens another door revealing no prize. You then decide whether to stick with your initial choice or switch to the remaining closed door. Counterintuitively, switching doors gives you a higher chance (2/3) of winning the prize, compared to sticking with your initial choice (1/3).
+- **Monty Hall Problem**: The Monty Hall problem is a probability puzzle where you choose one of three doors, behind one of which is a prize. The host, knowing what's behind each door, opens another door revealing no prize. You then decide whether to stick with your initial choice or switch to the remaining closed door. Counterintuitively, switching doors gives you a higher chance (2/3) of winning the prize, compared to sticking with your initial choice (1/3).
 [More details here](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 
 ## Installation and Usage
