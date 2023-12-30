@@ -23,7 +23,7 @@ Each algorithm in this repository is crafted to address unique challenges, empha
 git clone https://github.com/AbdullahAydn/TrickyAlgorithms.git
 ```
 2. Navigate to the repository directory:
-3. 
+
 ```bash
 cd TrickyAlgorithms
 ```
